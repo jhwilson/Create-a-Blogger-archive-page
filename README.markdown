@@ -21,6 +21,6 @@ then you copy and paste the following the code into your the html for your new p
     <script src="http://thisisanawesomeblog.blogspot.com/feeds/posts/default?max-results=500&amp;alt=json-in-script&amp;callback=LoadTheArchive">
     </script>
 
-Remember to change to chage the code in the second script call to match your blog URL!
+Remember to change the code in the second script call to match your blog URL!
 
 [1]:http://www.edwardtufte.com/bboard/q-and-a?topic_id=1
